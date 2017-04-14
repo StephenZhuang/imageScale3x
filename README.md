@@ -2,7 +2,7 @@
 把@3x图片自动转化成imageset
 
 
-#用法
+# 用法
 1. 新建文件夹，把图片资源放进去
 
 	![image](https://github.com/StephenZhuang/imageScale3x/blob/master/image.png)
